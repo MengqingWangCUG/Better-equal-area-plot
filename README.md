@@ -1,4 +1,4 @@
-![Better-equal-area-plot](images/icon.png)
+![Better-equal-area-plot](icon/icon.png)
 # Better-equal-area-plot
 This Python package offers a tool for creating high-quality equal-area plots, commonly used in paleomagnetic research for visualizing the distribution of magnetic vector data. 
 
